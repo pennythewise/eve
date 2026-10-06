@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "EVE",
+    "slug": "eve",
+    "scheme": "eve",
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router", "expo-font"],
+    "web": { "bundler": "metro", "output": "single" },
+    "experiments": { "typedRoutes": false }
+  }
+}
